@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Room Finder</string>
+
+    <string name="loc">Location -  Patan, Sundhara, Mangal Bazar,
+        Lalitpur, Nepal</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+    <string name="post">Post</string>
+    <string name="chats">Chats</string>
+</resources>

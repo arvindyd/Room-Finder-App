@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "747831508735",
+    "project_id": "room-finder-d2019",
+    "storage_bucket": "room-finder-d2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:747831508735:android:ee1ab897675b4bdb9f56ca",
+        "android_client_info": {
+          "package_name": "com.radhe.roomfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "747831508735-lsj6ktoba36441v4kv7ottqj1os6clp2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.radhe.roomfinder",
+            "certificate_hash": "5c5bbeb4431a13f4add2288e014ab322304c72a5"
+          }
+        },
+        {
+          "client_id": "747831508735-occ042ma2h7046o1evifiretuan1hb8a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Y2NTLUdnz4dBsRvS-TCce9UlaCkwgcU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "747831508735-occ042ma2h7046o1evifiretuan1hb8a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
